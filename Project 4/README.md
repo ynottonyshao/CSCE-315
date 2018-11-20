@@ -8,3 +8,4 @@
    Another option is to type "make" and "make clean" (to run, type "./gui1")
 
 Make sure to to have Xming running to see the GUI!!
+https://serverfault.com/questions/765606/xming-cant-open-display-error/800464
