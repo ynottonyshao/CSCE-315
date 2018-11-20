@@ -2,7 +2,7 @@
 
 1. Compile on Linux
 
-2. Make sure to to have Xming running to see the GUI!!
+2. Make sure Xming is running to see the GUI!!
 
 3. Either of the following both work (to run, type "./a.out")
 
